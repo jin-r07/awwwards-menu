@@ -9,4 +9,8 @@ Simply clone the repo using below steps:
 - Change the current working directory to the location where you want the cloned directory.
 - Type git clone, and then paste the URL you copied earlier. git clone https://github.com/jin-r10/awwwrads-menu.git
 - Enter to create your local clone.
+
+ ## To run
  
+ - npm i / npm install
+ - npm run dev
