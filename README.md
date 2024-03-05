@@ -7,5 +7,6 @@ Simply clone the repo using below steps:
 - Copy the URL for the repository. Under "HTTPS".
 - Open Git Bash or any terminal.
 - Change the current working directory to the location where you want the cloned directory.
-- Type git clone, and then paste the URL you copied earlier.
-git clone
+- Type git clone, and then paste the URL you copied earlier. git clone https://github.com/jin-r10/awwwrads-menu.git
+- Enter to create your local clone.
+ 
