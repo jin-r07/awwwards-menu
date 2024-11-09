@@ -2,7 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 Simply clone the repo using below steps:
-- Above the list of files, click  Code.
 - Copy the URL for the repository. Under "HTTPS".
 - Open Git Bash or any terminal.
 - Change the current working directory to the location where you want the cloned directory.
@@ -13,7 +12,7 @@ Simply clone the repo using below steps:
  - npm i / npm install
  - npm run dev
 
-Open http://localhost:3000 with your browser to see the result.
+Open http://localhost:3000 in your browser to see the result.
 
 ## Learn More
 To learn more about Next.js, take a look at the following resources:
